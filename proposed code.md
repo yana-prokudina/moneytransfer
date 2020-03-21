@@ -9,4 +9,4 @@
 
 Run result:
 
-![Run result](proposed code.png)
+![Run result](https://github.com/yana-prokudina/moneytransfer/blob/master/proposed%20code.png)
