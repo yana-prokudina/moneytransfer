@@ -10,4 +10,4 @@
 
 ## Общие рекомендации
 
-Привести код к виду [proposed code.md](proposed code.md)
+Привести код к виду [proposed code.md](https://github.com/yana-prokudina/moneytransfer/blob/master/proposed%20code.md)
