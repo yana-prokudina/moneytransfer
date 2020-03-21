@@ -9,4 +9,4 @@
 
 Run result:
 
-![Run result](proposed code money.png)
+![Run result](proposed code.png)
