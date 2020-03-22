@@ -2,7 +2,7 @@
 
 ## Краткое описание
 
-Протестирован код Money Transfer в среде IntelliJ IDEA
+Протестирован код [Money Transfer](https://github.com/yana-prokudina/moneytransfer/blob/master/Main.java) в среде IntelliJ IDEA
 
 ## Результаты
 
